@@ -2,7 +2,9 @@
 
 **Starter templates for Photoshop web comps.**
 
-More info coming soon!
+Currently there’s just [one `.psd`](stater@2x.psd) with three art boards.
+
+I hope to add more as time goes on.
 
 ---
 
