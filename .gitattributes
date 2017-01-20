@@ -1,0 +1,6 @@
+# https://github.com/mhulse/gh-boiler/issues/42
+
+* text=auto
+
+*.psd binary
+*.ai binary
