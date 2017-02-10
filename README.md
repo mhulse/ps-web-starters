@@ -2,9 +2,21 @@
 
 **Starter templates for Photoshop web comps.**
 
-Currently there’s just [one `.psd`](stater@2x.psd) with three art boards.
+Currently there’s just [one `.psd`](stater@2x.psd) with multiple art boards for desktop, tablet and mobile.
 
 I hope to add more as time goes on.
+
+### Column math
+
+```text
+([target-width]-([desired-column-spacing]*[desired-columns+1]))/[desired-columns]
+```
+
+For example:
+
+```text
+(1920-(40*5))/4 = 430px column width
+```
 
 ---
 
